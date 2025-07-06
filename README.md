@@ -38,10 +38,6 @@ The current version simulates database saving. To implement actual database func
 2. Configure your MySQL connection in the `saveToDatabase()` method
 3. Create appropriate database tables
 
-## Screenshot
-![Utility Bill Calculator]()
-
-
 ## License
 This project is currently unlicensed. 
 
